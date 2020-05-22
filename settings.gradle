@@ -1,0 +1,3 @@
+rootProject.name='MZPlayerSDK'
+include ':app'
+include ':mzplayer'
